@@ -1,4 +1,4 @@
-# Random_Forest_Gender_Prediction
+# Random Forest - Gender Prediction
 Predicting the Gender using Random Forest for a simple made up data.
 <br />
 <br />
